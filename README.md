@@ -1,4 +1,19 @@
-EKrut Project :
+# EKrut Project :
+
+The software system EKrut is a sophisticated and streamlined solution that enables the efficient operation of fast food sales. With a range of purchase options, including immediate purchases at the facility, delivery to any desired destination, and self-collection at a later date, this system caters to the diverse needs of its customers. The system also offers multiple features tailored to different customer roles, enabling the seamless management of products, order tracking, report generation, customer registration, and much more. With its comprehensive capabilities, this software system serves as an essential tool for fast food businesses to manage their operations effectively and offer a superior customer experience.
+
+Here are some examples from the system :
+
+login screen:
+![login](https://user-images.githubusercontent.com/120781381/227774697-afbf4ba3-b2ff-4338-a45c-aeb7f876763b.gif)
+
+the add to cart proccess:
+![cart](https://user-images.githubusercontent.com/120781381/227775031-34d5e31d-a35c-4ab1-ac97-0ec53277b47c.gif)
+
+complete order:
+![order](https://user-images.githubusercontent.com/120781381/227775415-36af2456-4553-4faa-9633-38f4756c1ee1.gif)
+
+# More details on how I did the work:
 
 During my time in the software systems development methods course, I had the opportunity to work on a project with a team of five people that helped us gain experience in the world of server-side and client-side technologies. Our project was developed using Java, which is a reliable and scalable programming language that is widely used in software development.
 
